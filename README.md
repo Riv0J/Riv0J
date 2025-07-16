@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Rivo Molina
+# 👋 Hi, I'm Rivo Molina 
+[LinkedIn](https://www.linkedin.com/in/rivo-molina/) 
+
 🎯 **Full Stack Web Developer** with solid training in both front-end and back-end development. 
 I’m passionate about building efficient systems and user-oriented interfaces. I enjoy optimizing processes, solving problems, and learning new technologies.
 
@@ -46,11 +48,10 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 
 ---
 
-## 📫 Let's Connect!
+## 🔥 Passionate for my work!
 
-- 📧 rivojosemolina@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rivo-molina/)  
-- 🔗 [Otherworlds](https://otherworlds.es)  
+![Otherworlds](otherworlds.png)
+🔗 [Otherworlds](https://otherworlds.es)
 
 ---
 
