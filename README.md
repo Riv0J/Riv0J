@@ -28,15 +28,16 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 
 ## 💼 Experience
 
+- **Front-End Teacher – Centro San Luis (Jan 2025 – Mar 2025)**
+  - Taught native JavaScript, libraries, and AJAX.
+  - Designed and graded technical assessments and provided individual feedback.
+    
 - **Jr Developer – Nemosoft (June 2023 – June 2024)**
   - Developed automation and web scraping tools with Python.
   - Maintained and expanded features for the `nemopilots.com` application.
 
-- **Front-End Teacher – Centro San Luis (Jan 2025 – Mar 2025)**
-  - Taught native JavaScript, libraries, and AJAX.
-  - Designed and graded technical assessments and provided individual feedback.
-
 ---
+
 ## 📚 Education
 
 - 🎓 Higher Technician in Web Application Development – Centro San Luis, Bilbao (2022–2024)
