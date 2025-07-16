@@ -38,21 +38,16 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
   - Developed automation and web scraping tools with Python.
   - Maintained and expanded features for the `nemopilots.com` application.
 
----
-
 ## 📚 Education
 
 - 🎓 Higher Technician in Web Application Development – Centro San Luis, Bilbao (2022–2024)
 - 📘 Java Web, Jakarta EE (190h) - Ipartek, Bilbao (2024)
 - 🏛️ Architecture (3 years) – Universidad Centroamericana, Nicaragua (2017–2019)
 
----
-
 ## 🔥 Passionate for my work!
 
 🔗 [Otherworlds](https://otherworlds.es)
 ![Otherworlds](otherworlds.png)
-
 
 ---
 
