@@ -18,6 +18,13 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🧪 Projects
+
+- 🌐 [Otherworlds](https://otherworlds.es/) – Laravel-based project for natural places around the world.
+- 🦄 [Legendaries React](https://riv0j.github.io/legendaries_react/) – React frontend demo.
+- 🗂️ [Anunic](https://anunic.org/) – Laravel-based project for Nicaraguan Numismatic Organization.
+
+---
 
 ## 💼 Experience
 
@@ -30,19 +37,10 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
   - Designed and graded technical assessments and provided individual feedback.
 
 ---
-
-## 🧪 Projects
-
-- 🌐 [Otherworlds](https://otherworlds.es/) – Laravel-based project for natural places around the world.
-- 🦄 [Legendaries React](https://riv0j.github.io/legendaries_react/) – React frontend demo.
-- 🗂️ [Anunic](https://anunic.org/) – Laravel-based project for Nicaraguan Numismatic Organization.
-
----
-
 ## 📚 Education
 
 - 🎓 Higher Technician in Web Application Development – Centro San Luis, Bilbao (2022–2024)
-- 📘 Java Web (190h) – Jakarta EE, Ipartek (2024)
+- 📘 Java Web, Jakarta EE (190h) - Ipartek, Bilbao (2024)
 - 🏛️ Architecture (3 years) – Universidad Centroamericana, Nicaragua (2017–2019)
 
 ---
