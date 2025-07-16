@@ -24,8 +24,8 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 ## 🧪 Projects
 
 - 🌍 [Otherworlds](https://otherworlds.es/) – Laravel-based, personal project featuring natural places around the world.
-- 🏛️ [Legendaries Demo](https://riv0j.github.io/legendaries_react/)  – React frontend demo with an ancient mythology theme.
 - 🪙 [Anunic](https://anunic.org/) – Laravel-based project for the Nicaraguan Numismatic Asociation.
+- 🏛️ [Legendaries Demo](https://riv0j.github.io/legendaries_react/)  – React frontend demo with an ancient mythology theme.
   
 
 ## 💼 Experience
@@ -50,8 +50,9 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 
 ## 🔥 Passionate for my work!
 
-![Otherworlds](otherworlds.png)
 🔗 [Otherworlds](https://otherworlds.es)
+![Otherworlds](otherworlds.png)
+
 
 ---
 
