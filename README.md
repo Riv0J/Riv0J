@@ -48,7 +48,7 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 
 🔗 [Otherworlds](https://otherworlds.es)
 Laravel-based, personal project featuring natural places around the world.
-![Otherworlds](otherworlds.png)
+![Otherworlds](t4.gif)
 
 🔗 [Legendaries Demo]([https://otherworlds.es](https://riv0j.github.io/legendaries_react/))
 React frontend demo with an ancient mythology theme.
