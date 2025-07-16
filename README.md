@@ -24,7 +24,6 @@ I’m passionate about building efficient systems and user-oriented interfaces. 
 - 🏛️ [Legendaries Demo](https://riv0j.github.io/legendaries_react/)  – React frontend demo with an ancient mythology theme.
 - 🪙 [Anunic](https://anunic.org/) – Laravel-based project for the Nicaraguan Numismatic Asociation.
   
----
 
 ## 💼 Experience
 
